@@ -1,2 +1,2 @@
-# projeto Ana ola mundo
- primeiro repositorio curso git
+# Projeto Ana olá, Mundo!!
+ Primeiro repositório curso Git
